@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @niltonslf
 - 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning how to live
-- 📫 How to reach me: You won't
+- 🌱 I’m currently learning English
+- 📫 How to reach me: niltonrck@gmail.com
 
 <!---
 niltonslf/niltonslf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
